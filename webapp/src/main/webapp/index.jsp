@@ -10,7 +10,7 @@
     <br>
 
 
-    <label for="mother name"><b>Email</b></label>
+    <label for="mother name"><b>Mother</b></label>
     <input type="text" placeholder="Mother name" name="mother" id="mother" required>
     <br>
 
