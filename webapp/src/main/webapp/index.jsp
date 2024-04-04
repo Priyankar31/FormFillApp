@@ -21,6 +21,10 @@
     <input type="text" placeholder="Brother name" name="brother" id=brother" required>
     <br>
 
+    <label for="sister name"><b>Sister</b></label>
+    <input type="text" placeholder="Sister name" name="sister" id=brother" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
