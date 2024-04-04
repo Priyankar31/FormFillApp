@@ -18,11 +18,15 @@
     <br>
 
     <label for="brother name"><b>Brother</b></label>
-    <input type="text" placeholder="Brother name" name="brother" id=brother" required>
+    <input type="text" placeholder="Brother name" name="brother" id="brother" required>
     <br>
 
     <label for="sister name"><b>Sister</b></label>
-    <input type="text" placeholder="Sister name" name="sister" id=brother" required>
+    <input type="text" placeholder="Sister name" name="sister" id="brother" required>
+    <br>
+
+    <label for="spouse name"><b>Spouse</b></label>
+    <input type="text" placeholder="Spouse name" name="spouse" id="spouse" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
