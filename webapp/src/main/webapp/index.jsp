@@ -13,7 +13,7 @@
     <input type="text" placeholder="Father name" name="Father" id="Father" required>
     <br>
 
-    <label for="mother name"><b>Mother</b></label>
+    <label for="Mother name"><b>Mother</b></label>
     <input type="text" placeholder="Mother name" name="mother" id="mother" required>
     <br>
 
