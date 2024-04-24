@@ -9,26 +9,6 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="Father name"><b>Father</b></label>
-    <input type="text" placeholder="Father name" name="Father" id="Father" required>
-    <br>
-
-    <label for="Mother name"><b>Mother</b></label>
-    <input type="text" placeholder="Mother name" name="mother" id="mother" required>
-    <br>
-
-    <label for="brother name"><b>Brother</b></label>
-    <input type="text" placeholder="Brother name" name="brother" id="brother" required>
-    <br>
-
-    <label for="sister name"><b>Sister</b></label>
-    <input type="text" placeholder="Sister name" name="sister" id="brother" required>
-    <br>
-
-    <label for="spouse name"><b>Spouse</b></label>
-    <input type="text" placeholder="Spouse name" name="spouse" id="spouse" required>
-    <br>
-
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
