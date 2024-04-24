@@ -12,7 +12,10 @@
     <label for="Father name"><b>Father</b></label>
     <input type="text" placeholder="Father name" name="Father" id="Father" required>
     <br>
-    
+    <label for="Mother name"><b>Mother</b></label>
+    <input type="text" placeholder="Mother name" name="mother" id="mother" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
