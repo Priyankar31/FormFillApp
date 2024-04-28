@@ -12,8 +12,13 @@
     <label for="Father name"><b>Father</b></label>
     <input type="text" placeholder="Father name" name="Father" id="Father" required>
     <br>
+
     <label for="Mother name"><b>Mother</b></label>
     <input type="text" placeholder="Mother name" name="mother" id="mother" required>
+    <br>
+
+    <label for="brother name"><b>Brother</b></label>
+    <input type="text" placeholder="Brother name" name="brother" id="brother" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
